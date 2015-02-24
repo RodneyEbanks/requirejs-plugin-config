@@ -1,0 +1,27 @@
+{
+    "name": "requirejs-plugin-config",
+    "version": "0.0.1",
+    "description": "Requirejs plugin for obtaining the requirejs config object.",
+    "main": "dist/config.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RodneyEbanks/requirejs-plugin-config.git"
+    },
+    "keywords": [
+        "requirejs",
+        "config",
+        "plugin"
+    ],
+    "author": "Rodney Ebanks foss@rodneyebanks.com",
+    "license": ["New BSD", "MIT"],
+    "bugs": {
+        "url": "https://github.com/RodneyEbanks/requirejs-plugin-config/issues"
+    },
+    "homepage": "https://github.com/RodneyEbanks/requirejs-plugin-config",
+    "dependencies": {
+        "requirejs": "^2.1.16"
+    }
+}
